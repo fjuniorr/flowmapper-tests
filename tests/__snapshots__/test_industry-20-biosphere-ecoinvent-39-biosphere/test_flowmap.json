@@ -727,6 +727,78 @@
         "Emissions to water",
         ""
       ],
+      "name": "AOX, Adsorbable Organic Halogen as Cl",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "water/unspecified",
+      "name": "AOX, Adsorbable Organic Halogen",
+      "unit": "kg",
+      "uuid": "a4f6341b-1762-4222-9024-bfd91f63588f"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        "river"
+      ],
+      "name": "AOX, Adsorbable Organic Halogen as Cl",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "water/surface water",
+      "name": "AOX, Adsorbable Organic Halogen",
+      "unit": "kg",
+      "uuid": "e395a1a3-6915-4b72-a533-ff1a82fc3da1"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1e-06,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        ""
+      ],
+      "name": "AOX, Adsorbable Organic Halogen as Cl",
+      "unit": "mg"
+    },
+    "target": {
+      "context": "water/unspecified",
+      "name": "AOX, Adsorbable Organic Halogen",
+      "unit": "kg",
+      "uuid": "a4f6341b-1762-4222-9024-bfd91f63588f"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        "ocean"
+      ],
+      "name": "AOX, Adsorbable Organic Halogen as Cl",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "water/ocean",
+      "name": "AOX, Adsorbable Organic Halogen",
+      "unit": "kg",
+      "uuid": "46e6f5f7-6541-494f-a9bb-66918fb5d592"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        ""
+      ],
       "name": "Acenaphthene",
       "unit": "kg"
     },
@@ -3193,6 +3265,42 @@
         "Emissions to air",
         ""
       ],
+      "name": "Argon",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/unspecified",
+      "name": "Argon-40",
+      "unit": "kg",
+      "uuid": "38321e66-f6ab-4908-b26f-c17267559bc5"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "in air"
+      ],
+      "name": "Argon",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in air",
+      "name": "Argon-40",
+      "unit": "kg",
+      "uuid": "8b46f615-69c9-4ca3-815e-a7bde116d202"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        ""
+      ],
       "name": "Argon-41",
       "unit": "kBq"
     },
@@ -3888,6 +3996,42 @@
     }
   },
   {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "in ground"
+      ],
+      "name": "Barite",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Barite, 15% in crude ore",
+      "unit": "kg",
+      "uuid": "c13beafb-2aed-4a52-b09a-78d28913b6ce"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1e-06,
+    "source": {
+      "categories": [
+        "Resources",
+        "in ground"
+      ],
+      "name": "Barite",
+      "unit": "mg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Barite, 15% in crude ore",
+      "unit": "kg",
+      "uuid": "c13beafb-2aed-4a52-b09a-78d28913b6ce"
+    }
+  },
+  {
     "comment": "Identical synonyms",
     "conversion_factor": 1.0,
     "source": {
@@ -4317,6 +4461,42 @@
       "name": "Bentazone",
       "unit": "kg",
       "uuid": "237ea455-6c82-4254-af86-9409df922094"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        "river"
+      ],
+      "name": "Benzo(a)anthracene",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "water/surface water",
+      "name": "Benz(a)anthracene",
+      "unit": "kg",
+      "uuid": "ad3f2ad1-7386-4725-9b33-57392b5c22ac"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        ""
+      ],
+      "name": "Benzo(a)anthracene",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/unspecified",
+      "name": "Benz(a)anthracene",
+      "unit": "kg",
+      "uuid": "4db9bb53-4bdd-4f32-a6a8-521f58c5825c"
     }
   },
   {
@@ -5037,6 +5217,24 @@
       "name": "Benzo(b)fluoranthene",
       "unit": "kg",
       "uuid": "10df31ce-d6ad-42b6-8fb2-9dfdb588e9ec"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        ""
+      ],
+      "name": "Benzo(g,h,i)perylene",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/unspecified",
+      "name": "Benzo(ghi)perylene",
+      "unit": "kg",
+      "uuid": "0605e241-ce98-4c10-8c61-d0a1775cdcb0"
     }
   },
   {
@@ -6217,6 +6415,24 @@
         "Emissions to air",
         "high. pop."
       ],
+      "name": "1-Butanol",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/urban air close to ground",
+      "name": "Butanol",
+      "unit": "kg",
+      "uuid": "efc4290c-1404-4e01-8b5e-e75c6d90615c"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        "high. pop."
+      ],
       "name": "Butene",
       "unit": "kg"
     },
@@ -6837,6 +7053,240 @@
       "name": "Cadmium II",
       "unit": "kg",
       "uuid": "89721e33-60fa-4447-bfc6-2f27d44a7893"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        ""
+      ],
+      "name": "Cesium",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "water/unspecified",
+      "name": "Caesium",
+      "unit": "kg",
+      "uuid": "59570d74-fac9-446d-88a7-5c5b0a6139a7"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        "ocean"
+      ],
+      "name": "Cesium",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "water/ocean",
+      "name": "Caesium",
+      "unit": "kg",
+      "uuid": "e189eb4e-0f6a-4054-aaf8-47df28c87ec4"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        "river"
+      ],
+      "name": "Cesium",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "water/surface water",
+      "name": "Caesium",
+      "unit": "kg",
+      "uuid": "96f0a692-ddb9-4a4c-8236-7c943929653d"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        ""
+      ],
+      "name": "Cesium-134",
+      "unit": "kBq"
+    },
+    "target": {
+      "context": "air/unspecified",
+      "name": "Caesium-134",
+      "unit": "kBq",
+      "uuid": "4f2051b8-22e6-4592-8803-1e984f8fa61b"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        "ocean"
+      ],
+      "name": "Cesium-134",
+      "unit": "kBq"
+    },
+    "target": {
+      "context": "water/ocean",
+      "name": "Caesium-134",
+      "unit": "kBq",
+      "uuid": "5e09ac47-20a5-46d5-a360-60586cf30478"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        ""
+      ],
+      "name": "Cesium-134",
+      "unit": "kBq"
+    },
+    "target": {
+      "context": "water/unspecified",
+      "name": "Caesium-134",
+      "unit": "kBq",
+      "uuid": "9d9246d4-0ce3-4b47-8491-cf62e562ad38"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        "river"
+      ],
+      "name": "Cesium-134",
+      "unit": "kBq"
+    },
+    "target": {
+      "context": "water/surface water",
+      "name": "Caesium-134",
+      "unit": "kBq",
+      "uuid": "fe9552bd-49c9-4e37-8c13-eeee4ddb8e34"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        "river"
+      ],
+      "name": "Cesium-136",
+      "unit": "kBq"
+    },
+    "target": {
+      "context": "water/surface water",
+      "name": "Caesium-136",
+      "unit": "kBq",
+      "uuid": "fd000a8d-2e90-4042-b148-cfb6bdfbbff5"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        ""
+      ],
+      "name": "Cesium-136",
+      "unit": "kBq"
+    },
+    "target": {
+      "context": "water/unspecified",
+      "name": "Caesium-136",
+      "unit": "kBq",
+      "uuid": "f522291f-df84-496b-90c9-433bc6a66a5b"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        ""
+      ],
+      "name": "Cesium-137",
+      "unit": "kBq"
+    },
+    "target": {
+      "context": "water/unspecified",
+      "name": "Caesium-137",
+      "unit": "kBq",
+      "uuid": "8bbe0b4c-5c9c-4959-a878-572f680e428d"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        "river"
+      ],
+      "name": "Cesium-137",
+      "unit": "kBq"
+    },
+    "target": {
+      "context": "water/surface water",
+      "name": "Caesium-137",
+      "unit": "kBq",
+      "uuid": "42901ad7-4be5-47d9-82cd-380ca34281c1"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        ""
+      ],
+      "name": "Cesium-137",
+      "unit": "kBq"
+    },
+    "target": {
+      "context": "air/unspecified",
+      "name": "Caesium-137",
+      "unit": "kBq",
+      "uuid": "7b87ce50-ede0-40fa-a3ee-5f72553af0e7"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        "ocean"
+      ],
+      "name": "Cesium-137",
+      "unit": "kBq"
+    },
+    "target": {
+      "context": "water/ocean",
+      "name": "Caesium-137",
+      "unit": "kBq",
+      "uuid": "0097bf60-3729-40b6-94d0-06bd6146cfc2"
     }
   },
   {
@@ -10440,6 +10890,42 @@
     }
   },
   {
+    "comment": "Resources with suffix in ground",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "in ground"
+      ],
+      "name": "Coal, hard",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Coal, hard, unspecified",
+      "unit": "kg",
+      "uuid": "b6d0042d-0ef8-49ed-9162-a07ff1ccf750"
+    }
+  },
+  {
+    "comment": "Resources with suffix in ground",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        ""
+      ],
+      "name": "Coal, hard",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Coal, hard, unspecified",
+      "unit": "kg",
+      "uuid": "b6d0042d-0ef8-49ed-9162-a07ff1ccf750"
+    }
+  },
+  {
     "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
@@ -11463,6 +11949,42 @@
       "name": "Copper, 2.19% in sulfide, Cu 1.83% and Mo 8.2E-3% in crude ore",
       "unit": "kg",
       "uuid": "b569dc97-52fe-4e39-9627-183b1002c287"
+    }
+  },
+  {
+    "comment": "Resources with suffix in ground",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        ""
+      ],
+      "name": "Copper ore",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Copper, Cu 0.2%, in mixed ore",
+      "unit": "kg",
+      "uuid": "704399e3-cf6b-483d-84f5-466e91a9d17c"
+    }
+  },
+  {
+    "comment": "Resources with suffix in ground",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        ""
+      ],
+      "name": "Copper, Cu 3.2E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0% in ore",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Copper, Cu 0.38%, in mixed ore",
+      "unit": "kg",
+      "uuid": "5afa470c-ab8c-4ec3-8a18-5c0bed973571"
     }
   },
   {
@@ -13086,24 +13608,6 @@
     }
   },
   {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "biotic"
-      ],
-      "name": "Energy, from biomass",
-      "unit": "MJ"
-    },
-    "target": {
-      "context": "natural resource/biotic",
-      "name": "Energy, gross calorific value, in biomass",
-      "unit": "MJ",
-      "uuid": "01c12fca-ad8b-4902-8b48-2d5afe3d3a0f"
-    }
-  },
-  {
     "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
@@ -13119,6 +13623,24 @@
       "name": "Energy, geothermal, converted",
       "unit": "MJ",
       "uuid": "8bc09c04-2190-4ee2-9ee2-ae988ccd4e0c"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "biotic"
+      ],
+      "name": "Energy, from biomass",
+      "unit": "MJ"
+    },
+    "target": {
+      "context": "natural resource/biotic",
+      "name": "Energy, gross calorific value, in biomass",
+      "unit": "MJ",
+      "uuid": "01c12fca-ad8b-4902-8b48-2d5afe3d3a0f"
     }
   },
   {
@@ -14487,6 +15009,114 @@
       "name": "Ethylamine",
       "unit": "kg",
       "uuid": "2e2a9226-1d5a-4adf-aa0f-6a4b9499e8d7"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        ""
+      ],
+      "name": "Ethene",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "water/unspecified",
+      "name": "Ethylene",
+      "unit": "kg",
+      "uuid": "f3a3227c-39f4-4383-8007-8b3b0c33467a"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        "high. pop."
+      ],
+      "name": "Ethene",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/urban air close to ground",
+      "name": "Ethylene",
+      "unit": "kg",
+      "uuid": "36270548-9316-424b-9aeb-e0de134b0be1"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        ""
+      ],
+      "name": "Ethene",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/unspecified",
+      "name": "Ethylene",
+      "unit": "kg",
+      "uuid": "90f722bf-cb9b-571a-88fc-34286632bdc4"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1e-06,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        ""
+      ],
+      "name": "Ethene",
+      "unit": "mg"
+    },
+    "target": {
+      "context": "air/unspecified",
+      "name": "Ethylene",
+      "unit": "kg",
+      "uuid": "90f722bf-cb9b-571a-88fc-34286632bdc4"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        "river"
+      ],
+      "name": "Ethene",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "water/surface water",
+      "name": "Ethylene",
+      "unit": "kg",
+      "uuid": "fe8f6da1-2dc8-4df8-8aea-d0675be0dfcf"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        "low. pop."
+      ],
+      "name": "Ethene",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/non-urban air or from high stacks",
+      "name": "Ethylene",
+      "unit": "kg",
+      "uuid": "87f683ed-44ae-41a6-b4bc-230622f8cfef"
     }
   },
   {
@@ -16128,6 +16758,24 @@
     }
   },
   {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "in ground"
+      ],
+      "name": "Gas, mine, off-gas, process, coal mining/m3",
+      "unit": "m3"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Gas, mine, off-gas, process, coal mining",
+      "unit": "Sm3",
+      "uuid": "3ed5f377-344f-423a-b5ec-9a9a1162b944"
+    }
+  },
+  {
     "comment": "Mapped name differences with unit conversions",
     "conversion_factor": NaN,
     "source": {
@@ -16143,6 +16791,24 @@
       "name": "Gas, mine, off-gas, process, coal mining",
       "unit": "Sm3",
       "uuid": "3ed5f377-344f-423a-b5ec-9a9a1162b944"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "in ground"
+      ],
+      "name": "Gas, natural/m3",
+      "unit": "m3"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Gas, natural",
+      "unit": "Sm3",
+      "uuid": "7c337428-fb1b-45c7-bbb2-2ee4d29e17ba"
     }
   },
   {
@@ -16395,6 +17061,42 @@
       "name": "Gold, Au 7.1E-4%, in ore",
       "unit": "kg",
       "uuid": "d28f9d42-5df5-41c3-be59-fdfa7ff57112"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "in ground"
+      ],
+      "name": "Gold, Au 9.7E-4%, Ag 9.7E-4%, Zn 0.63%, Cu 0.38%, Pb 0.014%, in ore",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Gold, Au 9.7E-4%, in mixed ore",
+      "unit": "kg",
+      "uuid": "cf3d3dbc-0e4b-402d-92a1-8ea6b4869ed5"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        ""
+      ],
+      "name": "Gold, Au 9.7E-4%, Ag 9.7E-4%, Zn 0.63%, Cu 0.38%, Pb 0.014%, in ore",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Gold, Au 9.7E-4%, in mixed ore",
+      "unit": "kg",
+      "uuid": "cf3d3dbc-0e4b-402d-92a1-8ea6b4869ed5"
     }
   },
   {
@@ -20812,6 +21514,24 @@
     "conversion_factor": 1.0,
     "source": {
       "categories": [
+        "Emissions to soil",
+        "agricultural"
+      ],
+      "name": "Monosodium acid methanearsonate",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "soil/agricultural",
+      "name": "MSMA",
+      "unit": "kg",
+      "uuid": "ef4884eb-c75d-4ef8-9170-11b20401cbca"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
         "Resources",
         "in ground"
       ],
@@ -22039,6 +22759,24 @@
         "Emissions to soil",
         "agricultural"
       ],
+      "name": "Metam-sodium dihydrate",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "soil/agricultural",
+      "name": "Metam-sodium",
+      "unit": "kg",
+      "uuid": "00acb9f0-1640-4f8c-89ef-d857e1428be0"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to soil",
+        "agricultural"
+      ],
       "name": "Metamitron",
       "unit": "kg"
     },
@@ -22720,6 +23458,114 @@
     "conversion_factor": 1.0,
     "source": {
       "categories": [
+        "Emissions to water",
+        "groundwater, long-term"
+      ],
+      "name": "Methane, tetrachloro-, CFC-10",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "water/ground-, long-term",
+      "name": "Methane, tetrachloro-, R-10",
+      "unit": "kg",
+      "uuid": "669778e5-b6e1-4c0d-8500-864563a74110"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        ""
+      ],
+      "name": "Methane, tetrachloro-, CFC-10",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/unspecified",
+      "name": "Methane, tetrachloro-, R-10",
+      "unit": "kg",
+      "uuid": "86d12e70-0c64-4ecf-ba52-114fa0c5d402"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        ""
+      ],
+      "name": "Methane, tetrachloro-, CFC-10",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "water/unspecified",
+      "name": "Methane, tetrachloro-, R-10",
+      "unit": "kg",
+      "uuid": "9a366c85-61a0-48bd-8af0-a2a96b327bc1"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        "high. pop."
+      ],
+      "name": "Methane, tetrachloro-, CFC-10",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/urban air close to ground",
+      "name": "Methane, tetrachloro-, R-10",
+      "unit": "kg",
+      "uuid": "5c97dd6c-aaa5-4477-aaf8-dbd0674499c4"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        "high. pop."
+      ],
+      "name": "Methane, tetrafluoro-, CFC-14",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/urban air close to ground",
+      "name": "Methane, tetrafluoro-, R-14",
+      "unit": "kg",
+      "uuid": "dfe1da1e-7756-4f7e-a393-6d5e2342a962"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        ""
+      ],
+      "name": "Methane, tetrafluoro-, CFC-14",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/unspecified",
+      "name": "Methane, tetrafluoro-, R-14",
+      "unit": "kg",
+      "uuid": "33681770-a0e1-4ce8-93c3-941fd607fa5f"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
         "Emissions to air",
         "high. pop."
       ],
@@ -23307,6 +24153,24 @@
       "name": "Methyl lactate",
       "unit": "kg",
       "uuid": "a3b906e7-7466-4500-8636-f1a4c2950eb8"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to soil",
+        "agricultural"
+      ],
+      "name": "Parathion, methyl",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "soil/agricultural",
+      "name": "Methyl parathion",
+      "unit": "kg",
+      "uuid": "4218b9ea-78e7-44b5-b4e1-5a0fca05aeb8"
     }
   },
   {
@@ -24502,6 +25366,24 @@
     "conversion_factor": 1.0,
     "source": {
       "categories": [
+        "Resources",
+        ""
+      ],
+      "name": "Nickel, Ni 2.3E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Cu 3.2E+0% in ore",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Nickel, Ni 2.5E+0%, in mixed ore",
+      "unit": "kg",
+      "uuid": "f09c3144-a268-4bed-8ca2-63005b6ef75f"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
         "Emissions to soil",
         "agricultural"
       ],
@@ -25344,14 +26226,14 @@
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
         "Resources",
         "land"
       ],
-      "name": "Occupation, agriculture",
+      "name": "Occupation, annual crop",
       "unit": "m2a"
     },
     "target": {
@@ -25369,7 +26251,7 @@
         "Resources",
         "land"
       ],
-      "name": "Occupation, annual crop",
+      "name": "Occupation, agriculture",
       "unit": "m2a"
     },
     "target": {
@@ -25524,24 +26406,6 @@
     }
   },
   {
-    "comment": "Minor land name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
-      "name": "Occupation, dump site, benthos",
-      "unit": "m2a"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Occupation, seabed, unspecified",
-      "unit": "m2*year",
-      "uuid": "7af0b1a6-2e8f-407a-8ac7-b02a2023155b"
-    }
-  },
-  {
     "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
@@ -25578,7 +26442,7 @@
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -25596,7 +26460,7 @@
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -25604,6 +26468,24 @@
         "land"
       ],
       "name": "Occupation, forest, intensive, short-cycle",
+      "unit": "m2a"
+    },
+    "target": {
+      "context": "natural resource/land",
+      "name": "Occupation, forest, intensive",
+      "unit": "m2*year",
+      "uuid": "aca1714f-0040-4a65-a73a-0e38aa9f50f4"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "land"
+      ],
+      "name": "Occupation, forest, used",
       "unit": "m2a"
     },
     "target": {
@@ -25632,24 +26514,6 @@
     }
   },
   {
-    "comment": "Minor land name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
-      "name": "Occupation, forest, used",
-      "unit": "m2a"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Occupation, forest, intensive",
-      "unit": "m2*year",
-      "uuid": "aca1714f-0040-4a65-a73a-0e38aa9f50f4"
-    }
-  },
-  {
     "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
@@ -25675,7 +26539,7 @@
         "Resources",
         "land"
       ],
-      "name": "Occupation, industrial area",
+      "name": "Occupation, industrial area, vegetation",
       "unit": "m2a"
     },
     "target": {
@@ -25686,25 +26550,7 @@
     }
   },
   {
-    "comment": "Minor land name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
-      "name": "Occupation, industrial area, benthos",
-      "unit": "m2a"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Occupation, seabed, unspecified",
-      "unit": "m2*year",
-      "uuid": "7af0b1a6-2e8f-407a-8ac7-b02a2023155b"
-    }
-  },
-  {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -25722,14 +26568,14 @@
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
         "Resources",
         "land"
       ],
-      "name": "Occupation, industrial area, vegetation",
+      "name": "Occupation, industrial area",
       "unit": "m2a"
     },
     "target": {
@@ -25830,7 +26676,7 @@
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -25884,7 +26730,61 @@
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "land"
+      ],
+      "name": "Occupation, water bodies, artificial",
+      "unit": "m2a"
+    },
+    "target": {
+      "context": "natural resource/land",
+      "name": "Occupation, river, artificial",
+      "unit": "m2*year",
+      "uuid": "c14ea750-4a9f-41fa-bcc1-4a1d84466f43"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "land"
+      ],
+      "name": "Occupation, water courses, artificial",
+      "unit": "m2a"
+    },
+    "target": {
+      "context": "natural resource/land",
+      "name": "Occupation, river, artificial",
+      "unit": "m2*year",
+      "uuid": "c14ea750-4a9f-41fa-bcc1-4a1d84466f43"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "land"
+      ],
+      "name": "Occupation, seabed, infrastructure",
+      "unit": "m2a"
+    },
+    "target": {
+      "context": "natural resource/land",
+      "name": "Occupation, seabed, infrastructure",
+      "unit": "m2*year",
+      "uuid": "9db06277-b6d9-4c48-8cfb-de342e928a50"
+    }
+  },
+  {
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -25909,14 +26809,32 @@
         "Resources",
         "land"
       ],
-      "name": "Occupation, seabed, infrastructure",
+      "name": "Occupation, industrial area, benthos",
       "unit": "m2a"
     },
     "target": {
       "context": "natural resource/land",
-      "name": "Occupation, seabed, infrastructure",
+      "name": "Occupation, seabed, unspecified",
       "unit": "m2*year",
-      "uuid": "9db06277-b6d9-4c48-8cfb-de342e928a50"
+      "uuid": "7af0b1a6-2e8f-407a-8ac7-b02a2023155b"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "land"
+      ],
+      "name": "Occupation, dump site, benthos",
+      "unit": "m2a"
+    },
+    "target": {
+      "context": "natural resource/land",
+      "name": "Occupation, seabed, unspecified",
+      "unit": "m2*year",
+      "uuid": "7af0b1a6-2e8f-407a-8ac7-b02a2023155b"
     }
   },
   {
@@ -25974,7 +26892,7 @@
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -26079,42 +26997,6 @@
       "name": "Occupation, urban/industrial fallow (non-use)",
       "unit": "m2*year",
       "uuid": "70aa745b-8bc5-4433-b2f5-d1da652ba166"
-    }
-  },
-  {
-    "comment": "Minor land name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
-      "name": "Occupation, water bodies, artificial",
-      "unit": "m2a"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Occupation, river, artificial",
-      "unit": "m2*year",
-      "uuid": "c14ea750-4a9f-41fa-bcc1-4a1d84466f43"
-    }
-  },
-  {
-    "comment": "Minor land name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
-      "name": "Occupation, water courses, artificial",
-      "unit": "m2a"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Occupation, river, artificial",
-      "unit": "m2*year",
-      "uuid": "c14ea750-4a9f-41fa-bcc1-4a1d84466f43"
     }
   },
   {
@@ -26439,6 +27321,24 @@
       "name": "Osmium",
       "unit": "kg",
       "uuid": "221d3aa1-6443-5d83-aad7-72929641bd0f"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to soil",
+        "agricultural"
+      ],
+      "name": "Oxydemeton methyl",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "soil/agricultural",
+      "name": "Oxydemeton-methyl",
+      "unit": "kg",
+      "uuid": "83cc3810-ac58-40a3-97af-04a855d4c809"
     }
   },
   {
@@ -26788,6 +27688,60 @@
     "conversion_factor": 1.0,
     "source": {
       "categories": [
+        "Resources",
+        "in ground"
+      ],
+      "name": "Palladium, Pd 2.0E-4%, Pt 4.8E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Palladium, Pd 1.6E-6%, in mixed ore",
+      "unit": "kg",
+      "uuid": "669ab0eb-c020-4b98-bfe4-e0989013121a"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "in ground"
+      ],
+      "name": "Palladium, Pd 7.3E-4%, Pt 2.5E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Palladium, Pd 1.6E-6%, in mixed ore",
+      "unit": "kg",
+      "uuid": "669ab0eb-c020-4b98-bfe4-e0989013121a"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        ""
+      ],
+      "name": "Palladium, Pd 7.3E-4%, Pt 2.5E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Palladium, Pd 1.6E-6%, in mixed ore",
+      "unit": "kg",
+      "uuid": "669ab0eb-c020-4b98-bfe4-e0989013121a"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
         "Emissions to soil",
         "agricultural"
       ],
@@ -26799,6 +27753,240 @@
       "name": "Parathion",
       "unit": "kg",
       "uuid": "e7d1072e-68ab-4fb4-b141-feb865e3082d"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        "low. pop., long-term"
+      ],
+      "name": "Particulates, < 2.5 um",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/low population density, long-term",
+      "name": "Particulate Matter, < 2.5 um",
+      "unit": "kg",
+      "uuid": "051aaf7a-6c1a-4e86-999f-85d5f0830df6"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        "stratosphere + troposphere"
+      ],
+      "name": "Particulates, < 2.5 um",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/lower stratosphere + upper troposphere",
+      "name": "Particulate Matter, < 2.5 um",
+      "unit": "kg",
+      "uuid": "ddd99a3a-be86-423d-b36a-a9dc8af1b1f8"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        "low. pop."
+      ],
+      "name": "Particulates, < 2.5 um",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/non-urban air or from high stacks",
+      "name": "Particulate Matter, < 2.5 um",
+      "unit": "kg",
+      "uuid": "66f50b33-fd62-4fdd-a373-c5b0de7de00d"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        ""
+      ],
+      "name": "Particulates, < 2.5 um",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/unspecified",
+      "name": "Particulate Matter, < 2.5 um",
+      "unit": "kg",
+      "uuid": "21e46cb8-6233-4c99-bac3-c41d2ab99498"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        "high. pop."
+      ],
+      "name": "Particulates, < 2.5 um",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/urban air close to ground",
+      "name": "Particulate Matter, < 2.5 um",
+      "unit": "kg",
+      "uuid": "230d8a0a-517c-43fe-8357-1818dd12997a"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        "high. pop."
+      ],
+      "name": "Particulates, > 10 um",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/urban air close to ground",
+      "name": "Particulate Matter, > 10 um",
+      "unit": "kg",
+      "uuid": "1eb1b94c-e9d8-47ab-969b-9cca920157d8"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        ""
+      ],
+      "name": "Particulates, > 10 um",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/unspecified",
+      "name": "Particulate Matter, > 10 um",
+      "unit": "kg",
+      "uuid": "66020d27-7ae4-4e59-83a3-89214b72c40a"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        "low. pop., long-term"
+      ],
+      "name": "Particulates, > 10 um",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/low population density, long-term",
+      "name": "Particulate Matter, > 10 um",
+      "unit": "kg",
+      "uuid": "b001715e-60e4-4f1d-949d-1acfab65bd8f"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        "low. pop."
+      ],
+      "name": "Particulates, > 10 um",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/non-urban air or from high stacks",
+      "name": "Particulate Matter, > 10 um",
+      "unit": "kg",
+      "uuid": "7678cec7-b8e1-439d-8242-99cd452834b1"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        "low. pop."
+      ],
+      "name": "Particulates, > 2.5 um, and < 10um",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/non-urban air or from high stacks",
+      "name": "Particulate Matter, > 2.5 um and < 10um",
+      "unit": "kg",
+      "uuid": "295c9740-6fdb-4676-9eb8-15e3786f713d"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        "high. pop."
+      ],
+      "name": "Particulates, > 2.5 um, and < 10um",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/urban air close to ground",
+      "name": "Particulate Matter, > 2.5 um and < 10um",
+      "unit": "kg",
+      "uuid": "ccb169c3-8aae-4727-89bb-a7dd122946f3"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        ""
+      ],
+      "name": "Particulates, > 2.5 um, and < 10um",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/unspecified",
+      "name": "Particulate Matter, > 2.5 um and < 10um",
+      "unit": "kg",
+      "uuid": "b967e1bf-f09b-4c89-8740-ace21db47bba"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        "low. pop., long-term"
+      ],
+      "name": "Particulates, > 2.5 um, and < 10um",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/low population density, long-term",
+      "name": "Particulate Matter, > 2.5 um and < 10um",
+      "unit": "kg",
+      "uuid": "5716c728-bd33-414d-8691-16e5534f5d37"
     }
   },
   {
@@ -27159,6 +28347,42 @@
       "name": "Phenol",
       "unit": "kg",
       "uuid": "63974d2c-11f3-45eb-be9c-726261b04d85"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        "high. pop."
+      ],
+      "name": "Phenol, 2,4-dichloro-",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/urban air close to ground",
+      "name": "Phenol, 2,4-dichloro",
+      "unit": "kg",
+      "uuid": "e4f501bb-02e2-4562-be3c-5a047b6d2581"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        ""
+      ],
+      "name": "Phenol, 2,4-dichloro-",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/unspecified",
+      "name": "Phenol, 2,4-dichloro",
+      "unit": "kg",
+      "uuid": "d45eed0a-e60a-46bb-a769-494f037c71bc"
     }
   },
   {
@@ -27807,6 +29031,60 @@
       "name": "Platinum",
       "unit": "kg",
       "uuid": "e4ad89a2-c1d3-4d0b-ad44-2a7ff00b1f39"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "in ground"
+      ],
+      "name": "Platinum, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Platinum, Pt 4.7E-7%, in mixed ore",
+      "unit": "kg",
+      "uuid": "68be4a67-89e0-4cfe-a089-fa8706de230e"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "in ground"
+      ],
+      "name": "Platinum, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Platinum, Pt 4.7E-7%, in mixed ore",
+      "unit": "kg",
+      "uuid": "68be4a67-89e0-4cfe-a089-fa8706de230e"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        ""
+      ],
+      "name": "Platinum, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Platinum, Pt 4.7E-7%, in mixed ore",
+      "unit": "kg",
+      "uuid": "68be4a67-89e0-4cfe-a089-fa8706de230e"
     }
   },
   {
@@ -29542,6 +30820,24 @@
     "conversion_factor": 1.0,
     "source": {
       "categories": [
+        "Emissions to soil",
+        "agricultural"
+      ],
+      "name": "Quizalofop ethyl ester",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "soil/agricultural",
+      "name": "Quizalofop-ethyl",
+      "unit": "kg",
+      "uuid": "9ae11925-3df9-5fde-b7af-1627c0818347"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
         "Emissions to water",
         ""
       ],
@@ -30442,6 +31738,60 @@
     "conversion_factor": 1.0,
     "source": {
       "categories": [
+        "Resources",
+        "in ground"
+      ],
+      "name": "Rhodium, Rh 2.0E-5%, Pt 2.5E-4%, Pd 7.3E-4%, Ni 2.3E+0%, Cu 3.2E+0% in ore",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Rhodium, Rh 1.6E-7%, in mixed ore",
+      "unit": "kg",
+      "uuid": "ba2da2fe-3420-45d1-9d1b-58b9e99714eb"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "in ground"
+      ],
+      "name": "Rhodium, Rh 2.4E-5%, Pt 4.8E-4%, Pd 2.0E-4%, Ni 3.7E-2%, Cu 5.2E-2% in ore",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Rhodium, Rh 1.6E-7%, in mixed ore",
+      "unit": "kg",
+      "uuid": "ba2da2fe-3420-45d1-9d1b-58b9e99714eb"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        ""
+      ],
+      "name": "Rhodium, Rh 2.4E-5%, Pt 4.8E-4%, Pd 2.0E-4%, Ni 3.7E-2%, Cu 5.2E-2% in ore",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Rhodium, Rh 1.6E-7%, in mixed ore",
+      "unit": "kg",
+      "uuid": "ba2da2fe-3420-45d1-9d1b-58b9e99714eb"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
         "Emissions to soil",
         "agricultural"
       ],
@@ -30777,6 +32127,42 @@
       "name": "Samarium",
       "unit": "kg",
       "uuid": "cf791833-26bc-5207-a9bd-6ddcd8ac7625"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1e-06,
+    "source": {
+      "categories": [
+        "Resources",
+        "in ground"
+      ],
+      "name": "Sand",
+      "unit": "mg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Sand, unspecified",
+      "unit": "kg",
+      "uuid": "423ef039-6057-4f63-94bd-e9410d024bd0"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "in ground"
+      ],
+      "name": "Sand",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Sand, unspecified",
+      "unit": "kg",
+      "uuid": "423ef039-6057-4f63-94bd-e9410d024bd0"
     }
   },
   {
@@ -31915,6 +33301,24 @@
   },
   {
     "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "in ground"
+      ],
+      "name": "Silver, Ag 9.7E-4%, Au 9.7E-4%, Zn 0.63%, Cu 0.38%, Pb 0.014%, in ore",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Silver, Ag 9.7E-4%, in mixed ore",
+      "unit": "kg",
+      "uuid": "cfaa80f4-8e19-4fd6-942a-eaea14812896"
+    }
+  },
+  {
+    "comment": "Identical names",
     "conversion_factor": 0.001,
     "source": {
       "categories": [
@@ -32595,6 +33999,24 @@
       "name": "Sodium nitrate",
       "unit": "kg",
       "uuid": "a2a4f255-ad47-4cf8-b6a9-e10885d61407"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "in ground"
+      ],
+      "name": "Sodium sulfate",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Sodium sulphate, various forms",
+      "unit": "kg",
+      "uuid": "5bbcdc6d-b1a7-4b63-b625-76060c767de7"
     }
   },
   {
@@ -36450,7 +37872,79 @@
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        ""
+      ],
+      "name": "Toluene, 2-chloro-",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "water/unspecified",
+      "name": "Toluene, 2-chloro",
+      "unit": "kg",
+      "uuid": "b1cbafef-4c5a-4b5f-9dfa-e49047f5f043"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        "river"
+      ],
+      "name": "Toluene, 2-chloro-",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "water/surface water",
+      "name": "Toluene, 2-chloro",
+      "unit": "kg",
+      "uuid": "ea5789d9-c0f9-4aeb-9df9-0caaf211534b"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        ""
+      ],
+      "name": "Toluene, 2-chloro-",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/unspecified",
+      "name": "Toluene, 2-chloro",
+      "unit": "kg",
+      "uuid": "53578c58-7cd6-4623-9dd5-2c275bdc9f38"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        "high. pop."
+      ],
+      "name": "Toluene, 2-chloro-",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/urban air close to ground",
+      "name": "Toluene, 2-chloro",
+      "unit": "kg",
+      "uuid": "a3833724-a816-4c9e-b6fd-ac43e8aeedc2"
+    }
+  },
+  {
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -36537,24 +38031,6 @@
       "name": "Transformation, from annual crop, non-irrigated, extensive",
       "unit": "m2",
       "uuid": "c7869c43-266c-429d-bfd5-6b578ed32ce8"
-    }
-  },
-  {
-    "comment": "Minor land name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
-      "name": "Transformation, from annual crop, non-irrigated, fallow",
-      "unit": "m2"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Transformation, from pasture, man made",
-      "unit": "m2",
-      "uuid": "2c126bcc-bb63-4d63-bd72-f02a1e616809"
     }
   },
   {
@@ -36673,6 +38149,24 @@
         "Resources",
         "land"
       ],
+      "name": "Transformation, from tropical rain forest",
+      "unit": "m2"
+    },
+    "target": {
+      "context": "natural resource/land",
+      "name": "Transformation, from forest, extensive",
+      "unit": "m2",
+      "uuid": "e71f95a5-fd82-4128-9fd1-be3f0e85d0fc"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "land"
+      ],
       "name": "Transformation, from forest, extensive",
       "unit": "m2"
     },
@@ -36684,7 +38178,25 @@
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "land"
+      ],
+      "name": "Transformation, from forest, used",
+      "unit": "m2"
+    },
+    "target": {
+      "context": "natural resource/land",
+      "name": "Transformation, from forest, intensive",
+      "unit": "m2",
+      "uuid": "e717f3cc-ac70-4c9b-be56-1614239b917e"
+    }
+  },
+  {
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -36738,25 +38250,25 @@
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
         "Resources",
         "land"
       ],
-      "name": "Transformation, from forest, used",
+      "name": "Transformation, from grassland, natural (non-use)",
       "unit": "m2"
     },
     "target": {
       "context": "natural resource/land",
-      "name": "Transformation, from forest, intensive",
+      "name": "Transformation, from grassland, natural (non-use)",
       "unit": "m2",
-      "uuid": "e717f3cc-ac70-4c9b-be56-1614239b917e"
+      "uuid": "b905c2e0-a0db-4e66-80d2-8bdfc93c6218"
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -36781,78 +38293,6 @@
         "Resources",
         "land"
       ],
-      "name": "Transformation, from grassland, natural (non-use)",
-      "unit": "m2"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Transformation, from grassland, natural (non-use)",
-      "unit": "m2",
-      "uuid": "b905c2e0-a0db-4e66-80d2-8bdfc93c6218"
-    }
-  },
-  {
-    "comment": "Minor land name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
-      "name": "Transformation, from grassland/pasture/meadow",
-      "unit": "m2"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Transformation, from pasture, man made",
-      "unit": "m2",
-      "uuid": "2c126bcc-bb63-4d63-bd72-f02a1e616809"
-    }
-  },
-  {
-    "comment": "Identical names",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
-      "name": "Transformation, from industrial area",
-      "unit": "m2"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Transformation, from industrial area",
-      "unit": "m2",
-      "uuid": "b6dcefd8-3848-4338-9c3e-fe6e91f20937"
-    }
-  },
-  {
-    "comment": "Minor land name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
-      "name": "Transformation, from industrial area, benthos",
-      "unit": "m2"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Transformation, from seabed, unspecified",
-      "unit": "m2",
-      "uuid": "928ba839-d6e5-4d1e-b5fd-122998a9bbe2"
-    }
-  },
-  {
-    "comment": "Minor land name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
       "name": "Transformation, from industrial area, built up",
       "unit": "m2"
     },
@@ -36864,7 +38304,7 @@
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -36872,6 +38312,24 @@
         "land"
       ],
       "name": "Transformation, from industrial area, vegetation",
+      "unit": "m2"
+    },
+    "target": {
+      "context": "natural resource/land",
+      "name": "Transformation, from industrial area",
+      "unit": "m2",
+      "uuid": "b6dcefd8-3848-4338-9c3e-fe6e91f20937"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "land"
+      ],
+      "name": "Transformation, from industrial area",
       "unit": "m2"
     },
     "target": {
@@ -36908,6 +38366,42 @@
         "land"
       ],
       "name": "Transformation, from pasture, man made",
+      "unit": "m2"
+    },
+    "target": {
+      "context": "natural resource/land",
+      "name": "Transformation, from pasture, man made",
+      "unit": "m2",
+      "uuid": "2c126bcc-bb63-4d63-bd72-f02a1e616809"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "land"
+      ],
+      "name": "Transformation, from grassland/pasture/meadow",
+      "unit": "m2"
+    },
+    "target": {
+      "context": "natural resource/land",
+      "name": "Transformation, from pasture, man made",
+      "unit": "m2",
+      "uuid": "2c126bcc-bb63-4d63-bd72-f02a1e616809"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "land"
+      ],
+      "name": "Transformation, from annual crop, non-irrigated, fallow",
       "unit": "m2"
     },
     "target": {
@@ -37051,6 +38545,24 @@
         "Resources",
         "land"
       ],
+      "name": "Transformation, from industrial area, benthos",
+      "unit": "m2"
+    },
+    "target": {
+      "context": "natural resource/land",
+      "name": "Transformation, from seabed, unspecified",
+      "unit": "m2",
+      "uuid": "928ba839-d6e5-4d1e-b5fd-122998a9bbe2"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "land"
+      ],
       "name": "Transformation, from shrub land, sclerophyllous",
       "unit": "m2"
     },
@@ -37077,24 +38589,6 @@
       "name": "Transformation, from traffic area, rail/road embankment",
       "unit": "m2",
       "uuid": "46b8b2fd-eb2a-413d-bc39-e7dc18a420ef"
-    }
-  },
-  {
-    "comment": "Minor land name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
-      "name": "Transformation, from tropical rain forest",
-      "unit": "m2"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Transformation, from forest, extensive",
-      "unit": "m2",
-      "uuid": "e71f95a5-fd82-4128-9fd1-be3f0e85d0fc"
     }
   },
   {
@@ -37152,7 +38646,7 @@
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -37242,7 +38736,7 @@
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -37311,24 +38805,6 @@
       "name": "Transformation, to dump site",
       "unit": "m2",
       "uuid": "90a5a447-af6f-421a-8201-011f07ad1150"
-    }
-  },
-  {
-    "comment": "Minor land name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
-      "name": "Transformation, to dump site, benthos",
-      "unit": "m2"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Transformation, to seabed, unspecified",
-      "unit": "m2",
-      "uuid": "ebb16be1-8db3-42a2-8123-418787422cfe"
     }
   },
   {
@@ -37429,6 +38905,24 @@
         "Resources",
         "land"
       ],
+      "name": "Transformation, to forest, intensive, normal",
+      "unit": "m2"
+    },
+    "target": {
+      "context": "natural resource/land",
+      "name": "Transformation, to forest, intensive",
+      "unit": "m2",
+      "uuid": "994d61de-fbb0-4187-a4d4-b11c3c2b9102"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "land"
+      ],
       "name": "Transformation, to forest, intensive",
       "unit": "m2"
     },
@@ -37440,7 +38934,25 @@
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "land"
+      ],
+      "name": "Transformation, to forest, intensive, short-cycle",
+      "unit": "m2"
+    },
+    "target": {
+      "context": "natural resource/land",
+      "name": "Transformation, to forest, intensive",
+      "unit": "m2",
+      "uuid": "994d61de-fbb0-4187-a4d4-b11c3c2b9102"
+    }
+  },
+  {
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -37458,32 +38970,14 @@
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
         "Resources",
         "land"
       ],
-      "name": "Transformation, to forest, intensive, normal",
-      "unit": "m2"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Transformation, to forest, intensive",
-      "unit": "m2",
-      "uuid": "994d61de-fbb0-4187-a4d4-b11c3c2b9102"
-    }
-  },
-  {
-    "comment": "Minor land name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
-      "name": "Transformation, to forest, intensive, short-cycle",
+      "name": "Transformation, to forest, used",
       "unit": "m2"
     },
     "target": {
@@ -37509,24 +39003,6 @@
       "name": "Transformation, to forest, unspecified",
       "unit": "m2",
       "uuid": "bba9f623-5919-4ef3-b98d-c94af1553179"
-    }
-  },
-  {
-    "comment": "Minor land name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
-      "name": "Transformation, to forest, used",
-      "unit": "m2"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Transformation, to forest, intensive",
-      "unit": "m2",
-      "uuid": "994d61de-fbb0-4187-a4d4-b11c3c2b9102"
     }
   },
   {
@@ -37573,7 +39049,7 @@
         "Resources",
         "land"
       ],
-      "name": "Transformation, to industrial area",
+      "name": "Transformation, to industrial area, vegetation",
       "unit": "m2"
     },
     "target": {
@@ -37584,25 +39060,7 @@
     }
   },
   {
-    "comment": "Minor land name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
-      "name": "Transformation, to industrial area, benthos",
-      "unit": "m2"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Transformation, to seabed, unspecified",
-      "unit": "m2",
-      "uuid": "ebb16be1-8db3-42a2-8123-418787422cfe"
-    }
-  },
-  {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -37620,14 +39078,14 @@
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
         "Resources",
         "land"
       ],
-      "name": "Transformation, to industrial area, vegetation",
+      "name": "Transformation, to industrial area",
       "unit": "m2"
     },
     "target": {
@@ -37746,7 +39204,7 @@
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -37800,14 +39258,32 @@
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
         "Resources",
         "land"
       ],
-      "name": "Transformation, to rivers, artificial",
+      "name": "Transformation, to water bodies, artificial",
+      "unit": "m2"
+    },
+    "target": {
+      "context": "natural resource/land",
+      "name": "Transformation, to river, artificial",
+      "unit": "m2",
+      "uuid": "090e9aa9-a9a9-4878-9634-3ad0ba7fbc91"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "land"
+      ],
+      "name": "Transformation, to water courses, artificial",
       "unit": "m2"
     },
     "target": {
@@ -37825,14 +39301,14 @@
         "Resources",
         "land"
       ],
-      "name": "Transformation, to sea and ocean",
+      "name": "Transformation, to rivers, artificial",
       "unit": "m2"
     },
     "target": {
       "context": "natural resource/land",
-      "name": "Transformation, to seabed, unspecified",
+      "name": "Transformation, to river, artificial",
       "unit": "m2",
-      "uuid": "ebb16be1-8db3-42a2-8123-418787422cfe"
+      "uuid": "090e9aa9-a9a9-4878-9634-3ad0ba7fbc91"
     }
   },
   {
@@ -37861,7 +39337,61 @@
         "Resources",
         "land"
       ],
+      "name": "Transformation, to dump site, benthos",
+      "unit": "m2"
+    },
+    "target": {
+      "context": "natural resource/land",
       "name": "Transformation, to seabed, unspecified",
+      "unit": "m2",
+      "uuid": "ebb16be1-8db3-42a2-8123-418787422cfe"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "land"
+      ],
+      "name": "Transformation, to industrial area, benthos",
+      "unit": "m2"
+    },
+    "target": {
+      "context": "natural resource/land",
+      "name": "Transformation, to seabed, unspecified",
+      "unit": "m2",
+      "uuid": "ebb16be1-8db3-42a2-8123-418787422cfe"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "land"
+      ],
+      "name": "Transformation, to seabed, unspecified",
+      "unit": "m2"
+    },
+    "target": {
+      "context": "natural resource/land",
+      "name": "Transformation, to seabed, unspecified",
+      "unit": "m2",
+      "uuid": "ebb16be1-8db3-42a2-8123-418787422cfe"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "land"
+      ],
+      "name": "Transformation, to sea and ocean",
       "unit": "m2"
     },
     "target": {
@@ -37926,14 +39456,14 @@
     }
   },
   {
-    "comment": "Minor land name differences",
+    "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
         "Resources",
         "land"
       ],
-      "name": "Transformation, to traffic area, road embankment",
+      "name": "Transformation, to traffic area, road network",
       "unit": "m2"
     },
     "target": {
@@ -37951,7 +39481,7 @@
         "Resources",
         "land"
       ],
-      "name": "Transformation, to traffic area, road network",
+      "name": "Transformation, to traffic area, road embankment",
       "unit": "m2"
     },
     "target": {
@@ -38013,42 +39543,6 @@
       "name": "Transformation, to urban, discontinuously built",
       "unit": "m2",
       "uuid": "55beee8d-d04e-4307-bb0e-4e113dc07ee7"
-    }
-  },
-  {
-    "comment": "Minor land name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
-      "name": "Transformation, to water bodies, artificial",
-      "unit": "m2"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Transformation, to river, artificial",
-      "unit": "m2",
-      "uuid": "090e9aa9-a9a9-4878-9634-3ad0ba7fbc91"
-    }
-  },
-  {
-    "comment": "Minor land name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
-      "name": "Transformation, to water courses, artificial",
-      "unit": "m2"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Transformation, to river, artificial",
-      "unit": "m2",
-      "uuid": "090e9aa9-a9a9-4878-9634-3ad0ba7fbc91"
     }
   },
   {
@@ -39186,6 +40680,78 @@
     }
   },
   {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        ""
+      ],
+      "name": "VOC, volatile organic compounds, unspecified origin",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "water/unspecified",
+      "name": "VOC, volatile organic compounds",
+      "unit": "kg",
+      "uuid": "9ba627f4-3a6c-4dd6-8598-4e1639fbd85a"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        "river"
+      ],
+      "name": "VOC, volatile organic compounds, unspecified origin",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "water/surface water",
+      "name": "VOC, volatile organic compounds",
+      "unit": "kg",
+      "uuid": "0b94989b-2551-4069-bb11-4f9f48988cad"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to air",
+        ""
+      ],
+      "name": "VOC, volatile organic compounds, unspecified origin",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "air/unspecified",
+      "name": "VOC, volatile organic compounds",
+      "unit": "kg",
+      "uuid": "4ec70203-13b0-58cc-b4dd-2fcce8a96732"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        "ocean"
+      ],
+      "name": "VOC, volatile organic compounds, unspecified origin",
+      "unit": "kg"
+    },
+    "target": {
+      "context": "water/ocean",
+      "name": "VOC, volatile organic compounds",
+      "unit": "kg",
+      "uuid": "113746e5-66a9-4d8c-b72b-4a99e7fcd052"
+    }
+  },
+  {
     "comment": "Identical synonyms",
     "conversion_factor": 1.0,
     "source": {
@@ -39565,6 +41131,24 @@
   },
   {
     "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        ""
+      ],
+      "name": "Water/m3",
+      "unit": "m3"
+    },
+    "target": {
+      "context": "water/unspecified",
+      "name": "Water",
+      "unit": "m3",
+      "uuid": "2404b41a-2eed-4e9d-8ab6-783946fdf5d6"
+    }
+  },
+  {
+    "comment": "Identical names",
     "conversion_factor": NaN,
     "source": {
       "categories": [
@@ -39637,6 +41221,24 @@
   },
   {
     "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        "ocean"
+      ],
+      "name": "Water/m3",
+      "unit": "m3"
+    },
+    "target": {
+      "context": "water/ocean",
+      "name": "Water",
+      "unit": "m3",
+      "uuid": "4f0f15b3-b227-4cdc-b0b3-6412d55695d5"
+    }
+  },
+  {
+    "comment": "Identical names",
     "conversion_factor": NaN,
     "source": {
       "categories": [
@@ -39669,6 +41271,24 @@
       "name": "Water",
       "unit": "m3",
       "uuid": "2404b41a-2eed-4e9d-8ab6-783946fdf5d6"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Emissions to water",
+        "river"
+      ],
+      "name": "Water/m3",
+      "unit": "m3"
+    },
+    "target": {
+      "context": "water/surface water",
+      "name": "Water",
+      "unit": "m3",
+      "uuid": "db4566b1-bd88-427d-92da-2d25879063b9"
     }
   },
   {
@@ -44910,6 +46530,42 @@
     }
   },
   {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        ""
+      ],
+      "name": "Water, unspecified natural origin/m3",
+      "unit": "m3"
+    },
+    "target": {
+      "context": "natural resource/in ground",
+      "name": "Water, unspecified natural origin",
+      "unit": "m3",
+      "uuid": "478e8437-1c21-4032-8438-872a6b5ddcdf"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "in water"
+      ],
+      "name": "Water, unspecified natural origin/m3",
+      "unit": "m3"
+    },
+    "target": {
+      "context": "natural resource/in water",
+      "name": "Water, unspecified natural origin",
+      "unit": "m3",
+      "uuid": "831f249e-53f2-49cf-a93c-7cee105f048e"
+    }
+  },
+  {
     "comment": "Resources with suffix in ground",
     "conversion_factor": 1.0,
     "source": {
@@ -44925,60 +46581,6 @@
       "name": "Water, well, in ground",
       "unit": "m3",
       "uuid": "67c40aae-d403-464d-9649-c12695e43ad8"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        ""
-      ],
-      "name": "Water/m3",
-      "unit": "m3"
-    },
-    "target": {
-      "context": "water/unspecified",
-      "name": "Water",
-      "unit": "m3",
-      "uuid": "2404b41a-2eed-4e9d-8ab6-783946fdf5d6"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        "ocean"
-      ],
-      "name": "Water/m3",
-      "unit": "m3"
-    },
-    "target": {
-      "context": "water/ocean",
-      "name": "Water",
-      "unit": "m3",
-      "uuid": "4f0f15b3-b227-4cdc-b0b3-6412d55695d5"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        "river"
-      ],
-      "name": "Water/m3",
-      "unit": "m3"
-    },
-    "target": {
-      "context": "water/surface water",
-      "name": "Water",
-      "unit": "m3",
-      "uuid": "db4566b1-bd88-427d-92da-2d25879063b9"
     }
   },
   {
@@ -45033,6 +46635,24 @@
       "name": "Wood, soft, standing",
       "unit": "m3",
       "uuid": "b073ec00-a5bf-4b64-bda0-ef366a3ac9bb"
+    }
+  },
+  {
+    "comment": "Identical names",
+    "conversion_factor": 1.0,
+    "source": {
+      "categories": [
+        "Resources",
+        "biotic"
+      ],
+      "name": "Wood, unspecified, standing/m3",
+      "unit": "m3"
+    },
+    "target": {
+      "context": "natural resource/biotic",
+      "name": "Wood, unspecified, standing",
+      "unit": "m3",
+      "uuid": "23e83c1f-07c9-4b5f-a898-0f4f09a6691f"
     }
   },
   {
