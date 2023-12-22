@@ -72,7 +72,7 @@
     }
   },
   {
-    "comment": "Minor random name differences",
+    "comment": "Identical synonyms",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -1449,24 +1449,6 @@
       ],
       "name": "Acidity, unspecified",
       "unit": "kg"
-    },
-    "target": {
-      "context": "water/unspecified",
-      "name": "Acidity, unspecified",
-      "unit": "kg",
-      "uuid": "b37294bd-947d-4f35-b9e6-3eb259c05ff5"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1e-06,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        ""
-      ],
-      "name": "Acids, unspecified",
-      "unit": "mg"
     },
     "target": {
       "context": "water/unspecified",
@@ -3831,132 +3813,6 @@
       "name": "Azoxystrobin",
       "unit": "kg",
       "uuid": "e69b028e-e549-4869-ae4a-b85ef8bcb7a9"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        "ocean"
-      ],
-      "name": "BOD5 (Biological Oxygen Demand)",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/ocean",
-      "name": "BOD5, Biological Oxygen Demand",
-      "unit": "kg",
-      "uuid": "f012d2d5-ebb4-4531-8285-0b98af3dcbd4"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        "groundwater"
-      ],
-      "name": "BOD5 (Biological Oxygen Demand)",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/ground-",
-      "name": "BOD5, Biological Oxygen Demand",
-      "unit": "kg",
-      "uuid": "57c27ba7-a61a-4932-8cd5-095c88ff0245"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        ""
-      ],
-      "name": "BOD5 (Biological Oxygen Demand)",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/unspecified",
-      "name": "BOD5, Biological Oxygen Demand",
-      "unit": "kg",
-      "uuid": "91955aba-6ebc-4413-9342-f0298860b4aa"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        "river"
-      ],
-      "name": "BOD5 (Biological Oxygen Demand)",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/surface water",
-      "name": "BOD5, Biological Oxygen Demand",
-      "unit": "kg",
-      "uuid": "70d467b6-115e-43c5-add2-441de9411348"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1e-06,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        ""
-      ],
-      "name": "BOD5 (Biological Oxygen Demand)",
-      "unit": "mg"
-    },
-    "target": {
-      "context": "water/unspecified",
-      "name": "BOD5, Biological Oxygen Demand",
-      "unit": "kg",
-      "uuid": "91955aba-6ebc-4413-9342-f0298860b4aa"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        "groundwater, long-term"
-      ],
-      "name": "BOD5 (Biological Oxygen Demand)",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/ground-, long-term",
-      "name": "BOD5, Biological Oxygen Demand",
-      "unit": "kg",
-      "uuid": "aedea697-930a-4a0e-9e4f-b9c369aa9a33"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        ""
-      ],
-      "name": "BTEX (Benzene, Toluene, Ethylbenzene, and Xylene), unspecified ratio",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "air/unspecified",
-      "name": "Benzene",
-      "unit": "kg",
-      "uuid": "28999907-a8a7-45b3-857e-836495ca2aa0"
     }
   },
   {
@@ -6624,114 +6480,6 @@
     }
   },
   {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        ""
-      ],
-      "name": "COD (Chemical Oxygen Demand)",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/unspecified",
-      "name": "COD, Chemical Oxygen Demand",
-      "unit": "kg",
-      "uuid": "961ccd56-2eee-4f57-bb18-fc4362b49000"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        "river"
-      ],
-      "name": "COD (Chemical Oxygen Demand)",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/surface water",
-      "name": "COD, Chemical Oxygen Demand",
-      "unit": "kg",
-      "uuid": "fc0b5c85-3b49-42c2-a3fd-db7e57b696e3"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1e-06,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        ""
-      ],
-      "name": "COD (Chemical Oxygen Demand)",
-      "unit": "mg"
-    },
-    "target": {
-      "context": "water/unspecified",
-      "name": "COD, Chemical Oxygen Demand",
-      "unit": "kg",
-      "uuid": "961ccd56-2eee-4f57-bb18-fc4362b49000"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        "groundwater, long-term"
-      ],
-      "name": "COD (Chemical Oxygen Demand)",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/ground-, long-term",
-      "name": "COD, Chemical Oxygen Demand",
-      "unit": "kg",
-      "uuid": "a8fea8cf-9b09-49fc-aa58-5a732494a2a0"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        "ocean"
-      ],
-      "name": "COD (Chemical Oxygen Demand)",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/ocean",
-      "name": "COD, Chemical Oxygen Demand",
-      "unit": "kg",
-      "uuid": "ec76fb5c-b402-416b-825c-53e074fe7525"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        "groundwater"
-      ],
-      "name": "COD (Chemical Oxygen Demand)",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/ground-",
-      "name": "COD, Chemical Oxygen Demand",
-      "unit": "kg",
-      "uuid": "be10dd54-eb4d-48ae-9e14-7d79ce8b170d"
-    }
-  },
-  {
     "comment": "Identical synonyms",
     "conversion_factor": 1.0,
     "source": {
@@ -7812,7 +7560,7 @@
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1e-06,
     "source": {
       "categories": [
@@ -7824,13 +7572,13 @@
     },
     "target": {
       "context": "air/unspecified",
-      "name": "Carbon dioxide, fossil",
+      "name": "Carbon dioxide, non-fossil",
       "unit": "kg",
-      "uuid": "349b29d1-3e58-4c66-98b9-9d1a076efd2e"
+      "uuid": "eba59fd6-f37e-41dc-9ca3-c7ea22d602c7"
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -7842,13 +7590,13 @@
     },
     "target": {
       "context": "air/unspecified",
-      "name": "Carbon dioxide, fossil",
+      "name": "Carbon dioxide, non-fossil",
       "unit": "kg",
-      "uuid": "349b29d1-3e58-4c66-98b9-9d1a076efd2e"
+      "uuid": "eba59fd6-f37e-41dc-9ca3-c7ea22d602c7"
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -7866,7 +7614,7 @@
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -7884,7 +7632,7 @@
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -7989,60 +7737,6 @@
       "name": "Carbon dioxide, in air",
       "unit": "kg",
       "uuid": "cc6a1abb-b123-4ca6-8f16-38209df609be"
-    }
-  },
-  {
-    "comment": "Missing biogenic and fossil carbon",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        "low. pop."
-      ],
-      "name": "Carbon dioxide, land transformation",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "air/non-urban air or from high stacks",
-      "name": "Carbon dioxide, from soil or biomass stock",
-      "unit": "kg",
-      "uuid": "78eb1859-abd9-44c6-9ce3-f3b5b33d619c"
-    }
-  },
-  {
-    "comment": "Missing biogenic and fossil carbon",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        ""
-      ],
-      "name": "Carbon dioxide, land transformation",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "air/unspecified",
-      "name": "Carbon dioxide, from soil or biomass stock",
-      "unit": "kg",
-      "uuid": "e4e9febc-07c1-403d-8d3a-6707bb4d96e6"
-    }
-  },
-  {
-    "comment": "Missing biogenic and fossil carbon",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        ""
-      ],
-      "name": "Carbon dioxide, peat oxidation",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "air/unspecified",
-      "name": "Carbon dioxide, from soil or biomass stock",
-      "unit": "kg",
-      "uuid": "e4e9febc-07c1-403d-8d3a-6707bb4d96e6"
     }
   },
   {
@@ -8154,7 +7848,7 @@
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -8166,13 +7860,13 @@
     },
     "target": {
       "context": "air/unspecified",
-      "name": "Carbon monoxide, fossil",
+      "name": "Carbon monoxide, non-fossil",
       "unit": "kg",
-      "uuid": "ba2f3f82-c93a-47a5-822a-37ec97495275"
+      "uuid": "2cb2333c-1599-46cf-8435-3dffce627524"
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1e-06,
     "source": {
       "categories": [
@@ -8184,13 +7878,13 @@
     },
     "target": {
       "context": "air/unspecified",
-      "name": "Carbon monoxide, fossil",
+      "name": "Carbon monoxide, non-fossil",
       "unit": "kg",
-      "uuid": "ba2f3f82-c93a-47a5-822a-37ec97495275"
+      "uuid": "2cb2333c-1599-46cf-8435-3dffce627524"
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -8208,7 +7902,7 @@
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -8226,7 +7920,7 @@
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -13176,150 +12870,6 @@
     }
   },
   {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        "low. pop."
-      ],
-      "name": "Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "air/non-urban air or from high stacks",
-      "name": "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",
-      "unit": "kg",
-      "uuid": "f77c5e36-ee47-4437-b757-03139bb1d6d6"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        ""
-      ],
-      "name": "Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "air/unspecified",
-      "name": "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",
-      "unit": "kg",
-      "uuid": "082903e4-45d8-4078-94cb-736b15279277"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1e-06,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        ""
-      ],
-      "name": "Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-",
-      "unit": "mg"
-    },
-    "target": {
-      "context": "air/unspecified",
-      "name": "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",
-      "unit": "kg",
-      "uuid": "082903e4-45d8-4078-94cb-736b15279277"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        "high. pop."
-      ],
-      "name": "Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "air/urban air close to ground",
-      "name": "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",
-      "unit": "kg",
-      "uuid": "237a5f15-8119-472a-8988-88b7ecb42405"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        "groundwater, long-term"
-      ],
-      "name": "Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/ground-, long-term",
-      "name": "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",
-      "unit": "kg",
-      "uuid": "cce10142-69c4-4a72-a010-ac6b6abad1d3"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        ""
-      ],
-      "name": "Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/unspecified",
-      "name": "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",
-      "unit": "kg",
-      "uuid": "737c3221-1456-4c6b-8605-6ac00dc88b2e"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        "river"
-      ],
-      "name": "Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/surface water",
-      "name": "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",
-      "unit": "kg",
-      "uuid": "d1d77d54-e19f-4c3d-8fdc-389f78e72515"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1e-06,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        ""
-      ],
-      "name": "Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-",
-      "unit": "mg"
-    },
-    "target": {
-      "context": "water/unspecified",
-      "name": "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",
-      "unit": "kg",
-      "uuid": "737c3221-1456-4c6b-8605-6ac00dc88b2e"
-    }
-  },
-  {
     "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
@@ -14091,24 +13641,6 @@
       "name": "Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113",
       "unit": "kg",
       "uuid": "cacfd448-6c2d-4061-9363-fd506b979f25"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        ""
-      ],
-      "name": "Ethane, 1,1,2-trifluoro-, HFC-143",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "air/unspecified",
-      "name": "Ethane, 1,1,1-trifluoro-, HFC-143a",
-      "unit": "kg",
-      "uuid": "e86bfec2-1025-4fa2-90b1-81e35e621e91"
     }
   },
   {
@@ -16767,24 +16299,6 @@
       ],
       "name": "Gas, mine, off-gas, process, coal mining/m3",
       "unit": "m3"
-    },
-    "target": {
-      "context": "natural resource/in ground",
-      "name": "Gas, mine, off-gas, process, coal mining",
-      "unit": "Sm3",
-      "uuid": "3ed5f377-344f-423a-b5ec-9a9a1162b944"
-    }
-  },
-  {
-    "comment": "Mapped name differences with unit conversions",
-    "conversion_factor": NaN,
-    "source": {
-      "categories": [
-        "Resources",
-        ""
-      ],
-      "name": "Gas, mine, off-gas, process, coal mining/kg",
-      "unit": "kg"
     },
     "target": {
       "context": "natural resource/in ground",
@@ -21348,24 +20862,6 @@
     }
   },
   {
-    "comment": "Minor random name differences",
-    "conversion_factor": NaN,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        "river"
-      ],
-      "name": "Lead-210/kg",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/surface water",
-      "name": "Lead-210",
-      "unit": "kBq",
-      "uuid": "6b000ac5-e791-4ca8-ad17-a72d2ca6eca7"
-    }
-  },
-  {
     "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
@@ -22734,24 +22230,6 @@
     }
   },
   {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to soil",
-        "agricultural"
-      ],
-      "name": "Metaldehyde (tetramer)",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "soil/agricultural",
-      "name": "Metaldehyde",
-      "unit": "kg",
-      "uuid": "597847df-518f-4bd6-ae50-1de01f2761a4"
-    }
-  },
-  {
     "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
@@ -22806,7 +22284,7 @@
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1e-06,
     "source": {
       "categories": [
@@ -22818,13 +22296,13 @@
     },
     "target": {
       "context": "air/unspecified",
-      "name": "Methane, fossil",
+      "name": "Methane, non-fossil",
       "unit": "kg",
-      "uuid": "0795345f-c7ae-410c-ad25-1845784c75f5"
+      "uuid": "da1157e2-7593-4dfd-80dd-a3449b37a4d8"
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -22836,13 +22314,13 @@
     },
     "target": {
       "context": "air/unspecified",
-      "name": "Methane, fossil",
+      "name": "Methane, non-fossil",
       "unit": "kg",
-      "uuid": "0795345f-c7ae-410c-ad25-1845784c75f5"
+      "uuid": "da1157e2-7593-4dfd-80dd-a3449b37a4d8"
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -22860,7 +22338,7 @@
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -22878,7 +22356,7 @@
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -26586,24 +26064,6 @@
     }
   },
   {
-    "comment": "Minor land name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
-      "name": "Occupation, lakes, artificial",
-      "unit": "m2a"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Occupation, lake, artificial",
-      "unit": "m2*year",
-      "uuid": "69dfa439-8e4e-4cae-bb0c-85a8aa8b9a73"
-    }
-  },
-  {
     "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
@@ -28440,24 +27900,6 @@
     }
   },
   {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        ""
-      ],
-      "name": "Phenols, unspecified",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/unspecified",
-      "name": "Phenol",
-      "unit": "kg",
-      "uuid": "39153cb9-a8fe-4fc8-beef-1bf1edceb8e7"
-    }
-  },
-  {
     "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
@@ -29085,24 +28527,6 @@
       "name": "Platinum, Pt 4.7E-7%, in mixed ore",
       "unit": "kg",
       "uuid": "68be4a67-89e0-4cfe-a089-fa8706de230e"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        ""
-      ],
-      "name": "Plutonium",
-      "unit": "kBq"
-    },
-    "target": {
-      "context": "air/unspecified",
-      "name": "Plutonium-238",
-      "unit": "kBq",
-      "uuid": "336fca6f-2dc9-4514-96ae-2a2af154c74e"
     }
   },
   {
@@ -30969,42 +30393,6 @@
       ],
       "name": "Radioactive species, other beta emitters",
       "unit": "kBq"
-    },
-    "target": {
-      "context": "air/unspecified",
-      "name": "Radioactive species, other beta emitters",
-      "unit": "kBq",
-      "uuid": "630a48ab-c9f7-4bf0-9efd-9f865934c2c8"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        ""
-      ],
-      "name": "Radioactive species, unspecified",
-      "unit": "kBq"
-    },
-    "target": {
-      "context": "air/unspecified",
-      "name": "Radioactive species, other beta emitters",
-      "unit": "kBq",
-      "uuid": "630a48ab-c9f7-4bf0-9efd-9f865934c2c8"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 0.001,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        ""
-      ],
-      "name": "Radioactive species, unspecified",
-      "unit": "Bq"
     },
     "target": {
       "context": "air/unspecified",
@@ -39096,24 +38484,6 @@
     }
   },
   {
-    "comment": "Minor land name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
-      "name": "Transformation, to lakes, artificial",
-      "unit": "m2"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Transformation, to lake, artificial",
-      "unit": "m2",
-      "uuid": "84b65d8f-2edd-4ddd-8f68-ca28d1c681b0"
-    }
-  },
-  {
     "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
@@ -39284,24 +38654,6 @@
         "land"
       ],
       "name": "Transformation, to water courses, artificial",
-      "unit": "m2"
-    },
-    "target": {
-      "context": "natural resource/land",
-      "name": "Transformation, to river, artificial",
-      "unit": "m2",
-      "uuid": "090e9aa9-a9a9-4878-9634-3ad0ba7fbc91"
-    }
-  },
-  {
-    "comment": "Minor land name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Resources",
-        "land"
-      ],
-      "name": "Transformation, to rivers, artificial",
       "unit": "m2"
     },
     "target": {

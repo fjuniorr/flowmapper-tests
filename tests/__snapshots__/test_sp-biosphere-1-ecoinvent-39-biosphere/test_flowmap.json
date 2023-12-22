@@ -342,60 +342,6 @@
     }
   },
   {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        "river"
-      ],
-      "name": "2,4-D, dimethylamine salt",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/surface water",
-      "name": "Dimethylamine",
-      "unit": "kg",
-      "uuid": "d9977222-46f1-447f-8d65-f34f060b1087"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        "groundwater"
-      ],
-      "name": "2,4-D, dimethylamine salt",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/ground-",
-      "name": "Dimethylamine",
-      "unit": "kg",
-      "uuid": "1ae07e12-290e-4ee2-a032-d3075e161c53"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        "low. pop."
-      ],
-      "name": "2,4-D, dimethylamine salt",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "air/non-urban air or from high stacks",
-      "name": "Dimethylamine",
-      "unit": "kg",
-      "uuid": "ca793a60-fdf5-4e53-9d75-b279d4a7e7c4"
-    }
-  },
-  {
     "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
@@ -7470,7 +7416,7 @@
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -7488,7 +7434,7 @@
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -7506,7 +7452,7 @@
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -7629,42 +7575,6 @@
       "name": "Carbon dioxide, in air",
       "unit": "kg",
       "uuid": "cc6a1abb-b123-4ca6-8f16-38209df609be"
-    }
-  },
-  {
-    "comment": "Missing biogenic and fossil carbon",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        "low. pop."
-      ],
-      "name": "Carbon dioxide, land transformation",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "air/non-urban air or from high stacks",
-      "name": "Carbon dioxide, from soil or biomass stock",
-      "unit": "kg",
-      "uuid": "78eb1859-abd9-44c6-9ce3-f3b5b33d619c"
-    }
-  },
-  {
-    "comment": "Missing biogenic and fossil carbon",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        ""
-      ],
-      "name": "Carbon dioxide, land transformation",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "air/unspecified",
-      "name": "Carbon dioxide, from soil or biomass stock",
-      "unit": "kg",
-      "uuid": "e4e9febc-07c1-403d-8d3a-6707bb4d96e6"
     }
   },
   {
@@ -7794,7 +7704,7 @@
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -7812,7 +7722,7 @@
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -7830,7 +7740,7 @@
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -7917,24 +7827,6 @@
       "name": "Carbon monoxide, fossil",
       "unit": "kg",
       "uuid": "6edcc2df-88a3-48e1-83d8-ffc38d31c35b"
-    }
-  },
-  {
-    "comment": "Missing biogenic and fossil carbon",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        "low. pop."
-      ],
-      "name": "Carbon monoxide, land transformation",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "air/non-urban air or from high stacks",
-      "name": "Carbon monoxide, from soil or biomass stock",
-      "unit": "kg",
-      "uuid": "68b9b577-90cf-49e4-88bb-a55d80f3ac5d"
     }
   },
   {
@@ -12744,132 +12636,6 @@
     }
   },
   {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        "low. pop., long-term"
-      ],
-      "name": "Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "air/low population density, long-term",
-      "name": "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",
-      "unit": "kg",
-      "uuid": "e69dfe04-4b45-4e87-a6ce-08b1af61ca22"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        ""
-      ],
-      "name": "Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "air/unspecified",
-      "name": "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",
-      "unit": "kg",
-      "uuid": "082903e4-45d8-4078-94cb-736b15279277"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        "low. pop."
-      ],
-      "name": "Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "air/non-urban air or from high stacks",
-      "name": "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",
-      "unit": "kg",
-      "uuid": "f77c5e36-ee47-4437-b757-03139bb1d6d6"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        "high. pop."
-      ],
-      "name": "Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "air/urban air close to ground",
-      "name": "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",
-      "unit": "kg",
-      "uuid": "237a5f15-8119-472a-8988-88b7ecb42405"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to soil",
-        ""
-      ],
-      "name": "Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "soil/unspecified",
-      "name": "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",
-      "unit": "kg",
-      "uuid": "24752b90-cc53-4198-a442-14196853148d"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to soil",
-        "industrial"
-      ],
-      "name": "Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "soil/industrial",
-      "name": "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",
-      "unit": "kg",
-      "uuid": "7533d11b-e96e-4a99-80f2-91400a62d650"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        ""
-      ],
-      "name": "Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/unspecified",
-      "name": "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",
-      "unit": "kg",
-      "uuid": "737c3221-1456-4c6b-8605-6ac00dc88b2e"
-    }
-  },
-  {
     "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
@@ -13029,42 +12795,6 @@
       "name": "Diquat dibromide",
       "unit": "kg",
       "uuid": "90bbd9a5-0ba0-522b-a94c-db314ea0f9c1"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        "ocean"
-      ],
-      "name": "Discarded fish, demersal",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/ocean",
-      "name": "Discarded fish, demersal, to ocean",
-      "unit": "kg",
-      "uuid": "61505469-d82e-4f73-9ac6-bb6910038c26"
-    }
-  },
-  {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to water",
-        "ocean"
-      ],
-      "name": "Discarded fish, pelagic",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "water/ocean",
-      "name": "Discarded fish, pelagic, to ocean",
-      "unit": "kg",
-      "uuid": "68e3130c-7c4b-4825-a383-c54410568d5d"
     }
   },
   {
@@ -22050,24 +21780,6 @@
     }
   },
   {
-    "comment": "Minor random name differences",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to soil",
-        "agricultural"
-      ],
-      "name": "Metaldehyde (tetramer)",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "soil/agricultural",
-      "name": "Metaldehyde",
-      "unit": "kg",
-      "uuid": "597847df-518f-4bd6-ae50-1de01f2761a4"
-    }
-  },
-  {
     "comment": "Identical names",
     "conversion_factor": 1.0,
     "source": {
@@ -22140,7 +21852,7 @@
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -22158,7 +21870,7 @@
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -22176,7 +21888,7 @@
     }
   },
   {
-    "comment": "Missing biogenic and fossil carbon",
+    "comment": "Biogenic to non-fossil if no better match",
     "conversion_factor": 1.0,
     "source": {
       "categories": [
@@ -22551,24 +22263,6 @@
       "name": "Methane, fossil",
       "unit": "kg",
       "uuid": "0795345f-c7ae-410c-ad25-1845784c75f5"
-    }
-  },
-  {
-    "comment": "Missing biogenic and fossil carbon",
-    "conversion_factor": 1.0,
-    "source": {
-      "categories": [
-        "Emissions to air",
-        "low. pop."
-      ],
-      "name": "Methane, land transformation",
-      "unit": "kg"
-    },
-    "target": {
-      "context": "air/non-urban air or from high stacks",
-      "name": "Methane, from soil or biomass stock",
-      "unit": "kg",
-      "uuid": "9541a975-800f-4fed-9edf-28f6e411a015"
     }
   },
   {
