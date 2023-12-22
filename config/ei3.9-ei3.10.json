@@ -109,7 +109,8 @@
     },
     "target": {
         "@id": "240177d8-6f3b-43f5-8d1e-0c18114dfa02"
-    }
+    },
+    "conversion_factor": 0.588
 },
 {
     "source": {
@@ -893,7 +894,8 @@
     },
     "target": {
         "@id": "2f033407-6060-4e1e-868c-9f362d10fdb2"
-    }
+    },
+    "conversion_factor": 0.599
 },
 {
     "source": {
@@ -901,7 +903,8 @@
     },
     "target": {
         "@id": "2f033407-6060-4e1e-868c-9f362d10fdb2"
-    }
+    },
+    "conversion_factor": 0.599
 },
 {
     "source": {
@@ -909,7 +912,8 @@
     },
     "target": {
         "@id": "2f033407-6060-4e1e-868c-9f362d10fdb2"
-    }
+    },
+    "conversion_factor": 0.599
 },
 {
     "source": {

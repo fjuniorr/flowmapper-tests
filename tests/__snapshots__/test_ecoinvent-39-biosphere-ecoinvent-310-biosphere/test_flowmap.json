@@ -15297,7 +15297,7 @@
   },
   {
     "comment": "Identical uuid",
-    "conversion_factor": 1.0,
+    "conversion_factor": 0.588,
     "source": {
       "@id": "c13beafb-2aed-4a52-b09a-78d28913b6ce",
       "compartment": {
@@ -133761,7 +133761,7 @@
   },
   {
     "comment": "Identical uuid",
-    "conversion_factor": 1.0,
+    "conversion_factor": 0.599,
     "source": {
       "@id": "90a94ea5-bca4-483d-a591-2e886c0ff47f",
       "compartment": {
@@ -133793,7 +133793,7 @@
   },
   {
     "comment": "Identical uuid",
-    "conversion_factor": 1.0,
+    "conversion_factor": 0.599,
     "source": {
       "@id": "78cd4852-e7b9-4301-adf7-51e730b0356a",
       "compartment": {
@@ -133825,7 +133825,7 @@
   },
   {
     "comment": "Identical uuid",
-    "conversion_factor": 1.0,
+    "conversion_factor": 0.599,
     "source": {
       "@id": "ec0fa5ce-51b4-4792-a8e8-c4ee668eddc3",
       "compartment": {
